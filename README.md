@@ -1,4 +1,4 @@
-# Apache-IoTDB-Client-CSharp-UserCase
+# Apache-IoTDB-Client-CSharp-UseCase
 Use case for csharp client of Apache IoTDB
 
 

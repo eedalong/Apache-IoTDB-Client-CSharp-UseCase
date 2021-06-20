@@ -6,7 +6,7 @@ Use case for csharp client of Apache IoTDB
 
 After cloning this project, you need to install Apache.IoTDB first.
 
-    dotnet add package Apache.IoTDB --version 0.12.1
+    dotnet add package Apache.IoTDB
 
 Then you can run this project to test.
     

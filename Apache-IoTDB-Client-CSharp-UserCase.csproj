@@ -6,4 +6,8 @@
     <RootNamespace>Apache_IoTDB_Client_CSharp_UserCase</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Apache.IoTDB" Version="0.12.1" />
+  </ItemGroup>
+
 </Project>
